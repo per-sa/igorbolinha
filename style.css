@@ -1,0 +1,10 @@
+body {
+    background-color: #000;
+}
+
+.igor {
+    display: block;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+}
