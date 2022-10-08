@@ -1,5 +1,7 @@
 body {
     background-color: #000;
+    font-family: 'DynaPuff',
+        cursive;
 }
 
 .igor {
@@ -7,4 +9,20 @@ body {
     color: #fff;
     margin: 0 auto;
     text-align: center;
+}
+
+a {
+    font-size: 26px;
+    margin-right: 10px;
+    color: pink;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: rgb(255, 0, 93);
+}
+
+li {
+    list-style: none;
+    margin-top: 20px;
 }
